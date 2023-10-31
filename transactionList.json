@@ -1,0 +1,193 @@
+[
+    {
+        "id": 10,
+        "type": "Outcome",
+        "amount": 123.56,
+        "currency_code": "MDL",
+        "date": "20.09.23",
+        "account_number": "4441 2235 5446 3556",
+        "transaction_purpose": "Credit handling",
+        "description": "Сredit rate payment"
+    },
+    {
+        "id": 12,
+        "type": "Income",
+        "amount": 500.00,
+        "currency_code": "MDL",
+        "date": "22.09.23",
+        "account_number": "3445 4566 3356 1977",
+        "transaction_purpose": "Terminal account replenishment",
+        "description": "Account top-up"
+    },
+    {
+        "id": 13,
+        "type": "Income",
+        "amount": 350.00,
+        "currency_code": "MDL",
+        "date": "23.09.23",
+        "account_number": "1245 4567 3386 1978",
+        "transaction_purpose": "Bonus receipt",
+        "description": "Monthly bonus"
+    },
+    {
+        "id": 14,
+        "type": "Outcome",
+        "amount": 223.56,
+        "currency_code": "MDL",
+        "date": "24.09.23",
+        "account_number": "9241 2235 5447 3557",
+        "transaction_purpose": "Shopping",
+        "description": "Groceries"
+    },
+    {
+        "id": 15,
+        "type": "Income",
+        "amount": 750.00,
+        "currency_code": "MDL",
+        "date": "25.09.23",
+        "account_number": "2345 4587 3396 1988",
+        "transaction_purpose": "Salary",
+        "description": "Monthly salary"
+    },
+    {
+        "id": 16,
+        "type": "Outcome",
+        "amount": 100.00,
+        "currency_code": "MDL",
+        "date": "26.09.23",
+        "account_number": "5641 2435 5466 3558",
+        "transaction_purpose": "Utility Bill",
+        "description": "Electricity bill"
+    },
+    {
+        "id": 17,
+        "type": "Income",
+        "amount": 950.00,
+        "currency_code": "MDL",
+        "date": "27.09.23",
+        "account_number": "7845 4569 3306 1999",
+        "transaction_purpose": "Refund",
+        "description": "Product return"
+    },
+    {
+        "id": 18,
+        "type": "Outcome",
+        "amount": 423.56,
+        "currency_code": "MDL",
+        "date": "28.09.23",
+        "account_number": "9341 2735 5456 3559",
+        "transaction_purpose": "Entertainment",
+        "description": "Movie ticket"
+    },
+    {
+        "id": 19,
+        "type": "Income",
+        "amount": 650.00,
+        "currency_code": "MDL",
+        "date": "29.09.23",
+        "account_number": "2945 4560 3316 1900",
+        "transaction_purpose": "Gift",
+        "description": "Birthday gift"
+    },
+    {
+        "id": 20,
+        "type": "Outcome",
+        "amount": 50.00,
+        "currency_code": "MDL",
+        "date": "30.09.23",
+        "account_number": "8741 2835 5448 3560",
+        "transaction_purpose": "Transport",
+        "description": "Taxi fare"
+    },
+    {
+        "id": 21,
+        "type": "Income",
+        "amount": 1100.00,
+        "currency_code": "MDL",
+        "date": "01.10.23",
+        "account_number": "6045 4570 3326 1911",
+        "transaction_purpose": "Savings",
+        "description": "Interest"
+    },
+    {
+        "id": 22,
+        "type": "Outcome",
+        "amount": 320.00,
+        "currency_code": "MDL",
+        "date": "02.10.23",
+        "account_number": "8141 2935 5459 3561",
+        "transaction_purpose": "Eating Out",
+        "description": "Restaurant bill"
+    },
+    {
+        "id": 23,
+        "type": "Income",
+        "amount": 420.00,
+        "currency_code": "MDL",
+        "date": "03.10.23",
+        "account_number": "6845 4581 3336 1922",
+        "transaction_purpose": "Freelance",
+        "description": "Project payment"
+    },
+    {
+        "id": 24,
+        "type": "Outcome",
+        "amount": 290.00,
+        "currency_code": "MDL",
+        "date": "04.10.23",
+        "account_number": "9541 3035 5460 3562",
+        "transaction_purpose": "Health",
+        "description": "Medical check-up"
+    },
+    {
+        "id": 25,
+        "type": "Income",
+        "amount": 900.00,
+        "currency_code": "MDL",
+        "date": "05.10.23",
+        "account_number": "3145 4592 3346 1933",
+        "transaction_purpose": "Investment",
+        "description": "Stock dividend"
+    },
+    {
+        "id": 26,
+        "type": "Outcome",
+        "amount": 220.00,
+        "currency_code": "MDL",
+        "date": "06.10.23",
+        "account_number": "9441 3135 5461 3563",
+        "transaction_purpose": "Education",
+        "description": "Books purchase"
+    },
+    {
+        "id": 27,
+        "type": "Income",
+        "amount": 1050.00,
+        "currency_code": "MDL",
+        "date": "07.10.23",
+        "account_number": "7745 4603 3356 1944",
+        "transaction_purpose": "Rental Income",
+        "description": "Property rent"
+    },
+    {
+        "id": 28,
+        "type": "Outcome",
+        "amount": 200.00,
+        "currency_code": "MDL",
+        "date": "08.10.23",
+        "account_number": "9341 3235 5462 3564",
+        "transaction_purpose": "Gift",
+        "description": "Anniversary gift"
+    },
+    {
+        "id": 29,
+        "type": "Income",
+        "amount": 1200.00,
+        "currency_code": "MDL",
+        "date": "09.10.23",
+        "account_number": "2045 4614 3366 1955",
+        "transaction_purpose": "Loan Repayment",
+        "description": "Loan return from friend"
+    }
+]
+
